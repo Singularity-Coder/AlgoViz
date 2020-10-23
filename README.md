@@ -1,2 +1,2 @@
-# InstaAlgoVisualiser
-Data Structure and Algorithm Visualiser!
+# AlgoViz
+Open-Source Data Structures & Algorithms Visualiser
